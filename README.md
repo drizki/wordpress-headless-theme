@@ -5,7 +5,8 @@ A minimal theme to use Wordpress without its frontend.
 ## Why You Need This Theme
 
 Useful if you want to use wordpress as a headless cms and build your own frontend, integrate it with custom app, or even your mobile app!
-I need to integrate it with my Next.js app. So I deploy my wordpress at `cms.example.com` and integrate Wordpress REST API and consume it at `example.com/blog`.
+
+In my case, I need to integrate it with my Next.js app. So I deploy my wordpress at `wordpress.example.com` and consume the [REST API](https://developer.wordpress.org/rest-api/) at `example.com/blog`.
 
 ## How to use this theme
 
