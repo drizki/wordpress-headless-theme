@@ -17,4 +17,6 @@ In my case, I need to integrate it with my Next.js app. So I deploy my wordpress
 5. Zip this repository.
 6. Upload and activate the theme.
 
+If you don't care about the redirect URL, just download the theme [here](https://github.com/drizki/wordpress-headless-theme/releases/tag/1.0) and upload it to your Wordpress installation.
+
 Happy coding! 😊
